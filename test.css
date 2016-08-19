@@ -34,7 +34,7 @@ a {
 /*#bart-r {
   -webkit-animation: bartneon 1.5s ease-in-out infinite alternate;
   -moz-animation: bartneon 1.5s ease-in-out infinite alternate;
-  animation: bartneon 1.5s ease-in-out infinite alternate;    
+  animation: bartneon 1.5s ease-in-out infinite alternate;
 }
 @-webkit-keyframes bartneon {
   from {
@@ -52,7 +52,7 @@ a {
     width: 600px;
   -webkit-animation: neonimg3 1.5s ease-in-out infinite alternate;
   -moz-animation: neonimg3 1.5s ease-in-out infinite alternate;
-  animation: neonimg3 1.5s ease-in-out infinite alternate;    
+  animation: neonimg3 1.5s ease-in-out infinite alternate;
 }
 .neon2 {
     color: #fff;
@@ -390,7 +390,7 @@ glow
 	-webkit-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
 	transition: all 0.5s linear;
-	
+
 }.shadowfilter:hover {
 	-webkit-filter: drop-shadow(0px 0px 8px rgba(0, 231, 255, 0.8));
 }*/
@@ -404,3 +404,9 @@ filter: progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=135, Colo
 
 
 }*/
+
+
+
+#bart-beyaz {
+    -webkit-filter: drop-shadow(0px 0px 13px rgba(255, 0, 0, 0.8));
+}
